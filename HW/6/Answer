@@ -1,0 +1,9 @@
+The answer is:
+1:Move the two children across.
+2:Move one of the children back.
+3:Move a soldier across.
+4:Move a child back.
+5:Repeat steps 1-4 untill all of the soldiers are across.
+6:Move both children across.
+At this point everyone will be at the other end.
+This means it will take 101 trips to get across
